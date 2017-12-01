@@ -10,7 +10,7 @@ int main()
     int Z,I,M,L,i,ct=1;
     while(1){
         cin>>Z>>I>>M>>L;
-        if(Z==0&&I==0&&M==0&&L==0)break;
+        if(Z==0&I==0&M==0&L==0)break;
 
         while(1){
         v.push_back(L);
